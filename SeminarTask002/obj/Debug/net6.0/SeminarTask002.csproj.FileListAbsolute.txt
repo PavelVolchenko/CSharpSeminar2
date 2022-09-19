@@ -1,0 +1,15 @@
+C:\Users\Pavel\Desktop\CSharpSeminar2\SeminarTask002\bin\Debug\net6.0\SeminarTask002.exe
+C:\Users\Pavel\Desktop\CSharpSeminar2\SeminarTask002\bin\Debug\net6.0\SeminarTask002.deps.json
+C:\Users\Pavel\Desktop\CSharpSeminar2\SeminarTask002\bin\Debug\net6.0\SeminarTask002.runtimeconfig.json
+C:\Users\Pavel\Desktop\CSharpSeminar2\SeminarTask002\bin\Debug\net6.0\SeminarTask002.dll
+C:\Users\Pavel\Desktop\CSharpSeminar2\SeminarTask002\bin\Debug\net6.0\SeminarTask002.pdb
+C:\Users\Pavel\Desktop\CSharpSeminar2\SeminarTask002\obj\Debug\net6.0\SeminarTask002.csproj.AssemblyReference.cache
+C:\Users\Pavel\Desktop\CSharpSeminar2\SeminarTask002\obj\Debug\net6.0\SeminarTask002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\Desktop\CSharpSeminar2\SeminarTask002\obj\Debug\net6.0\SeminarTask002.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\CSharpSeminar2\SeminarTask002\obj\Debug\net6.0\SeminarTask002.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\CSharpSeminar2\SeminarTask002\obj\Debug\net6.0\SeminarTask002.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\CSharpSeminar2\SeminarTask002\obj\Debug\net6.0\SeminarTask002.dll
+C:\Users\Pavel\Desktop\CSharpSeminar2\SeminarTask002\obj\Debug\net6.0\refint\SeminarTask002.dll
+C:\Users\Pavel\Desktop\CSharpSeminar2\SeminarTask002\obj\Debug\net6.0\SeminarTask002.pdb
+C:\Users\Pavel\Desktop\CSharpSeminar2\SeminarTask002\obj\Debug\net6.0\SeminarTask002.genruntimeconfig.cache
+C:\Users\Pavel\Desktop\CSharpSeminar2\SeminarTask002\obj\Debug\net6.0\ref\SeminarTask002.dll
